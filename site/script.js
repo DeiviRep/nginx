@@ -1,0 +1,1 @@
+console.log("Good°° This is an example of an NGINX static site running on Railway.");
